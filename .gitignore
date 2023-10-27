@@ -1,0 +1,11 @@
+test.xcodeproj/
+testUITests/
+
+test/Model/hahaha.swift
+test/Model/rain.swift
+test/Model/snow.swift
+
+
+test/view/Raining.swift
+test/view/SnowIng.swift
+test/view/Wave.swift
