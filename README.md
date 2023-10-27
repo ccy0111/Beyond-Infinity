@@ -13,8 +13,7 @@
 https://github.com/ccy0111/Beyond-Infinity/assets/30198861/cd342b1e-59bb-448d-bec5-dc94e3cb1ba4
 
 
-https://github.com/ccy0111/Beyond-Infinity/assets/30198861/ef00b96f-f4a4-43cf-b830-3a6b2182cf55
-
+https://github.com/ccy0111/Beyond-Infinity/assets/30198861/53883172-5bc1-4ada-8186-ae22351a5f9d
 
 ---
 
